@@ -1,0 +1,2 @@
+# UnityShaderStudy
+此仓库用于记录学习UnityShader中的代码，希望有朝一日可以写出漂亮的效果。
